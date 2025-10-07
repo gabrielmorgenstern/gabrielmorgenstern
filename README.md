@@ -3,15 +3,17 @@
 > “Automatizando o que é repetitivo para sobrar tempo para o que importa.”
 
 Sou desenvolvedor com foco em **automação de processos**, **tratamento de dados** e **integração de sistemas**.  
+
 Crio soluções que transformam tarefas manuais em rotinas inteligentes — como sistemas internos de **geração automática de pedidos**, **conciliação de planilhas**, **cálculo de preços dinâmico** e **gestão operacional em e-commerce**.
 
-Gosto de trabalhar com dados de ponta a ponta: **extração, limpeza, manipulação e análise**, sempre buscando otimizar fluxos e reduzir erros humanos.  
+Gosto de trabalhar com dados de ponta a ponta: **extração, limpeza, manipulação e análise**, sempre buscando otimizar fluxos e reduzir erros humanos.
+
 Além disso, tenho experiência prática na **criação de interfaces e aplicações internas**, tanto em desktop quanto web, para facilitar o uso das automações no dia a dia da equipe.
 
 ---
 
 <p align="center">
-  <img src="https://github.com/gabrielmorgenstern.png" width="140" style="border-radius: 50%" alt="Avatar de Gabriel Morgenstern">
+  <img src="https://github.com/gabrielmorgenstern.png" width="140" height="140" style="border-radius: 50%;" alt="Avatar de Gabriel Morgenstern">
 </p>
 
 ---
@@ -95,6 +97,9 @@ Ferramenta de geração massiva de etiquetas em PDF (10x15cm) com exibição de 
 
 <p align="center">
   Se quiser conversar sobre automação, dados ou desenvolvimento interno de sistemas, estou sempre aberto a novas ideias e desafios.
----
+
+  ---
+  
 ⭐ *Obrigado por visitar meu perfil! Explore meus repositórios para ver na prática algumas das soluções que desenvolvo.*  
+
 </p>
