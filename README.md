@@ -12,12 +12,6 @@ Além disso, tenho experiência prática na **criação de interfaces e aplicaç
 
 ---
 
-<p align="center">
-  <img src="https://github.com/gabrielmorgenstern.png" width="140" height="140" style="border-radius: 50%;" alt="Avatar de Gabriel Morgenstern">
-</p>
-
----
-
 ### 💻 Tecnologias & Ferramentas
 
 <p align="center">
